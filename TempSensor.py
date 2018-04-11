@@ -6,6 +6,8 @@
 #    Note:
 #        ds18b20's data pin must be connected to pin7.
 #        replace the 28-XXXXXXXXX as yours.
+#Connect the 3 pins as follows
+#Data pin connected to GPIO 4
 #----------------------------------------------------------------
 import os
 import Adafruit_CharLCD as LCD
